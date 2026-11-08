@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 769eab0b538edaf4e8c6f4e2edd71150
+timeCreated: 1763493251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteAqua 1_0
+    21300002: spriteAqua 1_1
+    21300004: spriteAqua 1_2
+    21300006: spriteAqua 1_3
+    21300008: spriteAqua 1_4
+    21300010: spriteAqua 1_5
+    21300012: spriteAqua 1_6
+    21300014: spriteAqua 1_7
+    21300016: spriteAqua 1_8
+    21300018: spriteAqua 1_9
+    21300020: spriteAqua 1_10
+    21300022: spriteAqua 1_11
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 680
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteAqua 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.33333, y: -56.5}
+        - {x: -57.33333, y: -31.5}
+        - {x: -57.33333, y: 40.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 31.66667, y: 56.5}
+        - {x: 56.66667, y: 30.5}
+        - {x: 56.66667, y: -35.5}
+        - {x: 32.66667, y: -56.5}
+      physicsShape:
+      - - {x: 55.66667, y: -23.5}
+        - {x: 56.66667, y: -18.5}
+        - {x: 56.66667, y: 18.5}
+        - {x: 49.66667, y: 33.5}
+        - {x: 39.66666, y: 46.5}
+        - {x: 19.66667, y: 56.5}
+        - {x: -19.33333, y: 56.5}
+        - {x: -34.33333, y: 49.5}
+        - {x: -46.33333, y: 38.5}
+        - {x: -57.33333, y: 23.5}
+        - {x: -57.33333, y: -19.5}
+        - {x: -53.33333, y: -29.5}
+        - {x: -40.33333, y: -46.5}
+        - {x: -24.33333, y: -56.5}
+        - {x: 20.66667, y: -56.5}
+        - {x: 28.66667, y: -52.5}
+        - {x: 33.66667, y: -49.5}
+        - {x: 45.66666, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bd488010a4cadaea07bc3d2abba02
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.33333, y: -56.5}
+        - {x: -57.33333, y: -31.5}
+        - {x: -57.33333, y: 40.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 31.66667, y: 56.5}
+        - {x: 56.66667, y: 30.5}
+        - {x: 56.66667, y: -35.5}
+        - {x: 32.66667, y: -56.5}
+      physicsShape:
+      - - {x: 55.66667, y: -23.5}
+        - {x: 56.66667, y: -18.5}
+        - {x: 56.66667, y: 18.5}
+        - {x: 49.66667, y: 33.5}
+        - {x: 39.66666, y: 46.5}
+        - {x: 19.66667, y: 56.5}
+        - {x: -19.33333, y: 56.5}
+        - {x: -34.33333, y: 49.5}
+        - {x: -46.33333, y: 38.5}
+        - {x: -57.33333, y: 23.5}
+        - {x: -57.33333, y: -19.5}
+        - {x: -53.33333, y: -29.5}
+        - {x: -40.33333, y: -46.5}
+        - {x: -24.33333, y: -56.5}
+        - {x: 20.66667, y: -56.5}
+        - {x: 28.66667, y: -52.5}
+        - {x: 33.66667, y: -49.5}
+        - {x: 45.66666, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41798beb38423284837f6f982cbbad
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 113
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.33333, y: -56.5}
+        - {x: -57.33333, y: -49.5}
+        - {x: -57.33333, y: 45.5}
+        - {x: -35.33333, y: 56.5}
+        - {x: 42.66667, y: 56.5}
+        - {x: 56.66667, y: 37.5}
+        - {x: 56.66667, y: -40.5}
+        - {x: 45.66667, y: -56.5}
+      physicsShape:
+      - - {x: 56.66667, y: 19.5}
+        - {x: 55.66667, y: 23.5}
+        - {x: 49.66667, y: 34.5}
+        - {x: 33.66667, y: 50.5}
+        - {x: 18.66667, y: 56.5}
+        - {x: -18.33333, y: 56.5}
+        - {x: -27.33333, y: 54.5}
+        - {x: -50.33333, y: 35.5}
+        - {x: -57.33333, y: 19.5}
+        - {x: -57.33333, y: -20.5}
+        - {x: -49.33333, y: -35.5}
+        - {x: -36.33333, y: -49.5}
+        - {x: -20.33333, y: -56.5}
+        - {x: 21.66667, y: -56.5}
+        - {x: 41.66667, y: -45.5}
+        - {x: 53.66666, y: -29.5}
+        - {x: 56.66667, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65412ae2304c2cac297c0112d16b2a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 113
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -56.5}
+        - {x: -56.5, y: -33.5}
+        - {x: -56.5, y: 33.5}
+        - {x: -39.5, y: 56.5}
+        - {x: 34.5, y: 56.5}
+        - {x: 56.5, y: 46.5}
+        - {x: 56.5, y: -46.5}
+        - {x: 51.5, y: -56.5}
+      physicsShape:
+      - - {x: 56.5, y: -24.5}
+        - {x: 56.5, y: 21.5}
+        - {x: 53.5, y: 28.5}
+        - {x: 39.5, y: 45.5}
+        - {x: 23.5, y: 55.5}
+        - {x: 18.5, y: 56.5}
+        - {x: -19.5, y: 56.5}
+        - {x: -34.5, y: 50.5}
+        - {x: -56.5, y: 25.5}
+        - {x: -56.5, y: -19.5}
+        - {x: -52.5, y: -29.5}
+        - {x: -39.5, y: -46.5}
+        - {x: -23.5, y: -56.5}
+        - {x: 21.5, y: -56.5}
+        - {x: 29.5, y: -52.5}
+        - {x: 34.5, y: -49.5}
+        - {x: 46.5, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f994246fe3445a79b9693343aeb0a71
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 113
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.33333, y: -56.5}
+        - {x: -57.33333, y: -32.5}
+        - {x: -57.33333, y: 26.5}
+        - {x: -55.33333, y: 32.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 34.66667, y: 56.5}
+        - {x: 56.66667, y: 46.5}
+        - {x: 56.66667, y: -46.5}
+        - {x: 51.66667, y: -56.5}
+      physicsShape:
+      - - {x: 56.66667, y: 21.5}
+        - {x: 53.66666, y: 28.5}
+        - {x: 40.66667, y: 47.5}
+        - {x: 20.66667, y: 56.5}
+        - {x: -18.33333, y: 56.5}
+        - {x: -28.33333, y: 52.5}
+        - {x: -46.33333, y: 39.5}
+        - {x: -57.33333, y: 18.5}
+        - {x: -57.33333, y: -17.5}
+        - {x: -55.33333, y: -23.5}
+        - {x: -39.33333, y: -47.5}
+        - {x: -23.33333, y: -56.5}
+        - {x: 22.66667, y: -56.5}
+        - {x: 34.66667, y: -50.5}
+        - {x: 46.66667, y: -39.5}
+        - {x: 56.66667, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64872311e94cfa8da8d7dfc1f61ef5
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 113
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.33333, y: -56.5}
+        - {x: -57.33333, y: -25.5}
+        - {x: -57.33333, y: 37.5}
+        - {x: -35.33333, y: 56.5}
+        - {x: 32.66667, y: 56.5}
+        - {x: 39.66667, y: 54.5}
+        - {x: 56.66667, y: 46.5}
+        - {x: 56.66667, y: -50.5}
+        - {x: 38.66667, y: -56.5}
+      physicsShape:
+      - - {x: 56.66667, y: 22.5}
+        - {x: 51.66667, y: 35.5}
+        - {x: 33.66667, y: 50.5}
+        - {x: 19.66667, y: 56.5}
+        - {x: -20.33333, y: 56.5}
+        - {x: -34.33333, y: 48.5}
+        - {x: -48.33333, y: 34.5}
+        - {x: -57.33333, y: 18.5}
+        - {x: -57.33333, y: -26.5}
+        - {x: -35.33333, y: -50.5}
+        - {x: -19.33333, y: -56.5}
+        - {x: 22.66667, y: -56.5}
+        - {x: 42.66666, y: -45.5}
+        - {x: 54.66667, y: -29.5}
+        - {x: 56.66667, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a35a5f8ea214061b2a78224fd1ffd45
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.33333, y: -56.5}
+        - {x: -57.33333, y: -45.5}
+        - {x: -57.33333, y: 35.5}
+        - {x: -27.33333, y: 56.5}
+        - {x: 27.66667, y: 56.5}
+        - {x: 31.66667, y: 55.5}
+        - {x: 56.66667, y: 45.5}
+        - {x: 56.66667, y: -52.5}
+        - {x: 52.66666, y: -56.5}
+      physicsShape:
+      - - {x: 56.66667, y: 17.5}
+        - {x: 47.66667, y: 33.5}
+        - {x: 38.66667, y: 46.5}
+        - {x: 18.66667, y: 56.5}
+        - {x: -24.33333, y: 56.5}
+        - {x: -49.33333, y: 40.5}
+        - {x: -54.33333, y: 28.5}
+        - {x: -57.33333, y: 20.5}
+        - {x: -57.33333, y: -19.5}
+        - {x: -56.33333, y: -22.5}
+        - {x: -53.33333, y: -29.5}
+        - {x: -50.33333, y: -34.5}
+        - {x: -41.33333, y: -47.5}
+        - {x: -23.33333, y: -56.5}
+        - {x: 19.66667, y: -56.5}
+        - {x: 32.66667, y: -50.5}
+        - {x: 46.66667, y: -41.5}
+        - {x: 56.66667, y: -18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c529902be2407cb477af31dc90a2b1
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.33333, y: -56.5}
+        - {x: -57.33333, y: -31.5}
+        - {x: -57.33333, y: 40.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 31.66667, y: 56.5}
+        - {x: 56.66667, y: 30.5}
+        - {x: 56.66667, y: -35.5}
+        - {x: 32.66667, y: -56.5}
+      physicsShape:
+      - - {x: 55.66667, y: -23.5}
+        - {x: 56.66667, y: -18.5}
+        - {x: 56.66667, y: 18.5}
+        - {x: 49.66667, y: 33.5}
+        - {x: 39.66666, y: 46.5}
+        - {x: 19.66667, y: 56.5}
+        - {x: -19.33333, y: 56.5}
+        - {x: -34.33333, y: 49.5}
+        - {x: -46.33333, y: 38.5}
+        - {x: -57.33333, y: 23.5}
+        - {x: -57.33333, y: -19.5}
+        - {x: -53.33333, y: -29.5}
+        - {x: -40.33333, y: -46.5}
+        - {x: -24.33333, y: -56.5}
+        - {x: 20.66667, y: -56.5}
+        - {x: 28.66667, y: -52.5}
+        - {x: 33.66667, y: -49.5}
+        - {x: 45.66666, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b43bdd3a34e24800800274494ccd0
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.33333, y: -56.5}
+        - {x: -57.33333, y: -31.5}
+        - {x: -57.33333, y: 40.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 31.66667, y: 56.5}
+        - {x: 56.66667, y: 30.5}
+        - {x: 56.66667, y: -35.5}
+        - {x: 32.66667, y: -56.5}
+      physicsShape:
+      - - {x: 55.66667, y: -23.5}
+        - {x: 56.66667, y: -18.5}
+        - {x: 56.66667, y: 18.5}
+        - {x: 49.66667, y: 33.5}
+        - {x: 39.66666, y: 46.5}
+        - {x: 19.66667, y: 56.5}
+        - {x: -19.33333, y: 56.5}
+        - {x: -34.33333, y: 49.5}
+        - {x: -46.33333, y: 38.5}
+        - {x: -57.33333, y: 23.5}
+        - {x: -57.33333, y: -19.5}
+        - {x: -53.33333, y: -29.5}
+        - {x: -40.33333, y: -46.5}
+        - {x: -24.33333, y: -56.5}
+        - {x: 20.66667, y: -56.5}
+        - {x: 28.66667, y: -52.5}
+        - {x: 33.66667, y: -49.5}
+        - {x: 45.66666, y: -39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52214098182b42f891b21eaeda9702fb
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 112
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -56.5}
+        - {x: -56, y: -44.5}
+        - {x: -56, y: 34.5}
+        - {x: -50, y: 56.5}
+        - {x: 31, y: 56.5}
+        - {x: 56, y: 30.5}
+        - {x: 56, y: -34.5}
+        - {x: 35, y: -50.5}
+        - {x: 26, y: -56.5}
+      physicsShape:
+      - - {x: 56, y: 21.5}
+        - {x: 47, y: 38.5}
+        - {x: 35, y: 49.5}
+        - {x: 20, y: 56.5}
+        - {x: -22, y: 56.5}
+        - {x: -47, y: 40.5}
+        - {x: -56, y: 23.5}
+        - {x: -56, y: -19.5}
+        - {x: -52, y: -29.5}
+        - {x: -39, y: -46.5}
+        - {x: -23, y: -56.5}
+        - {x: 23, y: -56.5}
+        - {x: 30, y: -53.5}
+        - {x: 47, y: -40.5}
+        - {x: 56, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2484968e1f4d4599099d52a0ad4576
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 114
+        height: 113
+      alignment: 9
+      pivot: {x: 0.497076, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.33333, y: -56.5}
+        - {x: -57.33333, y: -32.5}
+        - {x: -57.33333, y: 26.5}
+        - {x: -55.33333, y: 32.5}
+        - {x: -38.33333, y: 56.5}
+        - {x: 34.66667, y: 56.5}
+        - {x: 56.66667, y: 46.5}
+        - {x: 56.66667, y: -46.5}
+        - {x: 51.66667, y: -56.5}
+      physicsShape:
+      - - {x: 56.66667, y: 21.5}
+        - {x: 53.66666, y: 28.5}
+        - {x: 40.66667, y: 47.5}
+        - {x: 20.66667, y: 56.5}
+        - {x: -18.33333, y: 56.5}
+        - {x: -28.33333, y: 52.5}
+        - {x: -46.33333, y: 39.5}
+        - {x: -57.33333, y: 18.5}
+        - {x: -57.33333, y: -17.5}
+        - {x: -55.33333, y: -23.5}
+        - {x: -39.33333, y: -47.5}
+        - {x: -23.33333, y: -56.5}
+        - {x: 22.66667, y: -56.5}
+        - {x: 34.66667, y: -50.5}
+        - {x: 46.66667, y: -39.5}
+        - {x: 56.66667, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159073cdbe5f4931bc12e51798e4665a
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteAqua 1_11
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -56.5}
+        - {x: -56.5, y: -34.5}
+        - {x: -56.5, y: 33.5}
+        - {x: -47.5, y: 56.5}
+        - {x: 28.5, y: 56.5}
+        - {x: 55.5, y: 35.5}
+        - {x: 56.5, y: 33.5}
+        - {x: 56.5, y: -36.5}
+        - {x: 34.5, y: -56.5}
+      physicsShape:
+      - - {x: 56.5, y: 25.5}
+        - {x: 50.5, y: 34.5}
+        - {x: 34.5, y: 50.5}
+        - {x: 19.5, y: 56.5}
+        - {x: -17.5, y: 56.5}
+        - {x: -26.5, y: 54.5}
+        - {x: -49.5, y: 35.5}
+        - {x: -56.5, y: 19.5}
+        - {x: -56.5, y: -20.5}
+        - {x: -48.5, y: -35.5}
+        - {x: -35.5, y: -49.5}
+        - {x: -19.5, y: -56.5}
+        - {x: 22.5, y: -56.5}
+        - {x: 42.5, y: -45.5}
+        - {x: 54.5, y: -29.5}
+        - {x: 56.5, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf57932057340dc8833ae4bfc531ae5
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

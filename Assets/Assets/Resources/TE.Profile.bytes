@@ -1,0 +1,138 @@
+{
+  "Config": {
+    "Name": "New Tangible Profile",
+    "SensitivityMultiplier": 4.109998,
+    "Recovery": {
+      "Timeout": 30,
+      "TangibleDistance": 50.0,
+      "PointDistance": 100.0
+    },
+    "Smoothing": {
+      "PositionHistory": 4,
+      "RotationHistory": 1
+    },
+    "Pending3PointMatchDelay": 0
+  },
+  "Patterns": [
+    {
+      "PatternId": 0,
+      "Name": "jardin",
+      "KeepAlivePoints": 1,
+      "Points": [
+        {
+          "X": 4.0,
+          "Y": -100.333336
+        },
+        {
+          "X": 83.0,
+          "Y": 52.6666679
+        },
+        {
+          "X": -87.0,
+          "Y": 47.6666679
+        }
+      ],
+      "Offset": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Radius": 104.242989
+    },
+    {
+      "PatternId": 1,
+      "Name": "hh",
+      "KeepAlivePoints": 2,
+      "Points": [
+        {
+          "X": 9.333329,
+          "Y": -104.333336
+        },
+        {
+          "X": 66.3333359,
+          "Y": 64.6666641
+        },
+        {
+          "X": -75.6666641,
+          "Y": 39.6666679
+        }
+      ],
+      "Offset": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Radius": 107.012154
+    },
+    {
+      "PatternId": 2,
+      "Name": "OBJETO3",
+      "KeepAlivePoints": 2,
+      "Points": [
+        {
+          "X": -114.333336,
+          "Y": -40.3333321
+        },
+        {
+          "X": 97.6666641,
+          "Y": -67.3333359
+        },
+        {
+          "X": 16.66667,
+          "Y": 107.666664
+        }
+      ],
+      "Offset": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Radius": 128.227463
+    },
+    {
+      "PatternId": 3,
+      "Name": "tangible_4",
+      "KeepAlivePoints": 2,
+      "Points": [
+        {
+          "X": 58.0,
+          "Y": -72.6666641
+        },
+        {
+          "X": 79.0,
+          "Y": 64.3333359
+        },
+        {
+          "X": -137.0,
+          "Y": 8.333329
+        }
+      ],
+      "Offset": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Radius": 133.884735
+    },
+    {
+      "PatternId": 4,
+      "Name": "tangible_5",
+      "KeepAlivePoints": 2,
+      "Points": [
+        {
+          "X": -104.0,
+          "Y": -84.3333359
+        },
+        {
+          "X": 125.0,
+          "Y": -38.3333321
+        },
+        {
+          "X": -21.0,
+          "Y": 122.666664
+        }
+      ],
+      "Offset": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "Radius": 140.144653
+    }
+  ]
+}

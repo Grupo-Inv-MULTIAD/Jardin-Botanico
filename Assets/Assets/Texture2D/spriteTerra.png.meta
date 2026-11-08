@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 0deecc3b50db78a4e8783aa0648b131c
+timeCreated: 1763493251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteTerra_0
+    21300002: spriteTerra_1
+    21300004: spriteTerra_2
+    21300006: spriteTerra_3
+    21300008: spriteTerra_4
+    21300010: spriteTerra_5
+    21300012: spriteTerra_6
+    21300014: spriteTerra_7
+    21300016: spriteTerra_8
+    21300018: spriteTerra_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1500
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteTerra_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f1c52b196d4f6eae91dfcc9e4a7c3f
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1de3d5c5b7478898c6b2aa1bf7ee24
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457ad6c646f494b853adf0f3f983aac
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c94234ec5e472897f9f4d6d02658f2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b32199484c4cab8fe5dc8886ce8d5b
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f4abda59b4d1e8554e754db4b1ad2
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604c28085d445589c26238372fd30ff
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2776b169414c37bb831f2c3a20b25c
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40ebf6f69bf4d9586b8500aea62e465
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteTerra_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fcce4e67ee4e50bcec57af156d7e57
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

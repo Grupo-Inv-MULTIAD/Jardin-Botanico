@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Bark
+  m_Shader: {fileID: 4800000, guid: 3f6ac6929700869408b1afa35b81e9d3, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AmbientOcculsion:
+        m_Texture: {fileID: 2800000, guid: 916b774d07ae49646aa65ea42df61487, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Heightmap:
+        m_Texture: {fileID: 2800000, guid: 2f7bf573711271e4495b7fbfbea15b16, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 2800000, guid: aa0ae74ca509ed840a3f20f17f72ce67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 890e2b016a2a67f45881f3752586cc2a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Specular:
+        m_Texture: {fileID: 2800000, guid: 0584f6e89debfbd4ba2ff311c17044a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _BumpScale: 1
+    - _Bumpiness: 0.065
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Gloss: 0.8
+    - _Glossiness: 0.5
+    - _LightReflectance: 0.794
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalSharpness: 0.358
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Response: 0.676
+    - _Roughness: 0.618
+    - _Shadows: 0.811
+    - _Specularity: 0.193
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _node_1420: 0
+    - _node_1751: 0.473
+    - _node_2764: 0
+    - _node_3396: 0
+    - _node_4701: 0
+    - _node_4934: 0.5
+    - _node_4988: 0
+    - _node_5110: 0
+    - _node_5837: 0.3162393
+    - _node_6971: 0.139
+    - _node_7829: 0
+    - _node_8632: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _node_1071: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_2885: {r: 0.5147059, g: 0.4200909, b: 0.4200909, a: 1}
+    - _node_528: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_8583: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_8628: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _node_9880: {r: 0.5, g: 0.5, b: 0.5, a: 1}

@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: 73aca2e81a420fb42a8b72a2f8f8c3ad
+timeCreated: 1763493251
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteNiebla_0
+    21300002: spriteNiebla_1
+    21300004: spriteNiebla_2
+    21300006: spriteNiebla_3
+    21300008: spriteNiebla_4
+    21300010: spriteNiebla_5
+    21300012: spriteNiebla_6
+    21300014: spriteNiebla_7
+    21300016: spriteNiebla_8
+    21300018: spriteNiebla_9
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1500
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteNiebla_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041491526f3a4ef584a63bdf9a93da89
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f71ca3e1746a3bf873ae63c3c0272
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b1410627514b80ab546134f9f42dbd
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0fd90a5f44858a6f1b8d7c3eb34b0
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 91.99999, y: -122}
+        - {x: 112, y: -104}
+        - {x: 127, y: -85}
+        - {x: 141, y: -60}
+        - {x: 146, y: -47}
+        - {x: 149, y: -32}
+        - {x: 150, y: -28}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 97, y: 118}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 133}
+        - {x: 41, y: 148}
+        - {x: 30, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -132, y: 77}
+        - {x: -140, y: 60}
+        - {x: -148, y: 40}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -119}
+        - {x: -77, y: -132}
+        - {x: -60, y: -140}
+        - {x: -40, y: -148}
+        - {x: -32, y: -149}
+        - {x: -27, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 82, y: -130}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cd9bd46704ebb9b9df65acbc677c1
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d931343745149a8b32fc9ab57b5fa01
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b2a8bd009c416da8061411542a5849
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e30fc2ac69455b8e9be2f74c3e6058
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5a5f1a46641b88a3ab28a6de961d8
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteNiebla_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -150}
+        - {x: -150, y: -109}
+        - {x: -150, y: 72}
+        - {x: -93, y: 150}
+        - {x: 112, y: 150}
+        - {x: 150, y: 82}
+        - {x: 150, y: -127}
+        - {x: 117, y: -150}
+      physicsShape:
+      - - {x: 85, y: -127}
+        - {x: 96, y: -118}
+        - {x: 111, y: -105}
+        - {x: 122, y: -91.99999}
+        - {x: 132, y: -77}
+        - {x: 143, y: -56}
+        - {x: 150, y: -33}
+        - {x: 150, y: 28}
+        - {x: 148, y: 40}
+        - {x: 142, y: 55}
+        - {x: 132, y: 77}
+        - {x: 122, y: 91.99999}
+        - {x: 112, y: 104}
+        - {x: 91.99999, y: 122}
+        - {x: 77, y: 132}
+        - {x: 60, y: 140}
+        - {x: 55, y: 142}
+        - {x: 41, y: 148}
+        - {x: 29, y: 150}
+        - {x: -28, y: 150}
+        - {x: -40, y: 148}
+        - {x: -55, y: 142}
+        - {x: -77, y: 132}
+        - {x: -91.99999, y: 122}
+        - {x: -104, y: 112}
+        - {x: -122, y: 91.99999}
+        - {x: -133, y: 77}
+        - {x: -148, y: 41}
+        - {x: -149, y: 32}
+        - {x: -150, y: 27}
+        - {x: -150, y: -28}
+        - {x: -147, y: -40}
+        - {x: -142, y: -55}
+        - {x: -132, y: -77}
+        - {x: -122, y: -91.99999}
+        - {x: -112, y: -104}
+        - {x: -97, y: -118}
+        - {x: -77, y: -133}
+        - {x: -51, y: -145}
+        - {x: -32, y: -149}
+        - {x: -28, y: -150}
+        - {x: 33, y: -150}
+        - {x: 51, y: -145}
+        - {x: 60, y: -140}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b072f20610f45c8956bd893b625a7d4
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
